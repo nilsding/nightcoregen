@@ -1,0 +1,16 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    google-search (1.0.3)
+      json
+    json (1.8.1)
+    ruby-sox (0.0.1)
+    taglib-ruby (0.6.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  google-search
+  ruby-sox
+  taglib-ruby
