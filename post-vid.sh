@@ -33,3 +33,4 @@ fi
 # You can use $VIDEO_FILE for the output video file
 
 mv $VIDEO_FILE /var/www/nilsding.org/nightcore/output
+echo $VIDEO_FILE > .last
